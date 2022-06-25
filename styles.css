@@ -1,0 +1,27 @@
+* {
+font-family: 'Courier New', monospace;
+background-color: rgb(205, 72, 77);
+text-align: center;
+
+}
+
+h1 {
+    color: black;
+    font-size: 44px;
+}
+
+ul,ol {
+    color: indianred;
+    font-size: 12px;
+
+}
+
+img,iframe {
+    height: auto;
+    width: 200px;
+  }
+  
+#recipe-links {
+      color: maroon;
+      font-size: 33px;
+  }
